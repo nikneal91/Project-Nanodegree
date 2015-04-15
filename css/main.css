@@ -2,6 +2,10 @@
 
 		font-family: Verdana, sans-serif;
 	font-style: italic;
+	
+	}
+	.container-responsive{
+	margin-left:20px;
 	}
 	.orange{
 color:#f07c17;
